@@ -1,4 +1,4 @@
-num=int(input("enter number"))
+num=input("enter number")
 if(num[::-1]==num):
 	print("palindrom")
 else:
