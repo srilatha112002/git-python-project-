@@ -2,6 +2,6 @@ import math
 num=int(input("enter number"))
 n=math.sqrt(num)
 if(n==int(n)):
-	print("perfect square")
+	print("Given number is a perfect square")
 else:
-	print("not a perfect square")
+	print("Given number is not a perfect square")
